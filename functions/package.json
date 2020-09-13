@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "firebase-admin": "latest",
     "firebase-functions": "latest",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
